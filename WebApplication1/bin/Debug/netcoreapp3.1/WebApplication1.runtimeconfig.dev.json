@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\griga\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\griga\\.nuget\\packages"
+    ]
+  }
+}
